@@ -1,5 +1,4 @@
 
-# **AICTE Project**
 ## **Fake News Detection Using Machine Learning**
 
 ## **1. Project Overview**
@@ -85,8 +84,4 @@ The model achieves high classification accuracy on the test dataset and effectiv
 
 ---
 
-## **9. Future Enhancements**
-- Deploy as a **Web Application**
-- Integrate **Deep Learning models (LSTM/BERT)**
-- Add **Real-Time News Verification**
-```
+

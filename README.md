@@ -105,9 +105,4 @@ streamlit run app.py
 
 ---
 
-## **8. Future Enhancements**
-- Add real-time wearable device integration  
-- Improve model using advanced regression algorithms  
-- Deploy on cloud platforms (AWS/Render/Heroku)  
-- Add user authentication and history tracking  
-```
+
